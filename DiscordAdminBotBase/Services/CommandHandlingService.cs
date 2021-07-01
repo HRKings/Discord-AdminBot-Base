@@ -6,7 +6,7 @@ using Discord.Commands;
 using Discord.WebSocket;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DiscordNetBotTemplate.Services
+namespace DiscordAdminBotBase.Services
 {
     public class CommandHandlingService
     {

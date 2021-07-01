@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Discord;
 using Discord.Commands;
 
-namespace DiscordNetBotTemplate.Modules
+namespace DiscordAdminBotBase.Modules
 {
     public class HelpHandler : ModuleBase<SocketCommandContext>
     {

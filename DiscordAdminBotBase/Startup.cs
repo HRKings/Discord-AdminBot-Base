@@ -4,10 +4,10 @@ using System.Threading.Tasks;
 using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
-using DiscordNetBotTemplate.Services;
+using DiscordAdminBotBase.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DiscordNetBotTemplate
+namespace DiscordAdminBotBase
 {
     public class Startup
     {

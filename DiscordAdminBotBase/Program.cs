@@ -1,4 +1,4 @@
-﻿namespace DiscordNetBotTemplate
+﻿namespace DiscordAdminBotBase
 {
     public static class Program
     {
