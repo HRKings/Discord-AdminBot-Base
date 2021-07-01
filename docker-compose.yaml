@@ -2,8 +2,8 @@ version: "3.9"
 
 services:
   bot:
-    build: ./DiscordNetBotTemplate/
-    container_name: discordnetbottemplate
+    build: ./DiscordAdminBotBase/
+    container_name: discordadminbotbase
     restart: unless-stopped
     environment:
     - DISCORD_BOT_TOKEN=${DISCORD_BOT_TOKEN:-yourtokenhere}
