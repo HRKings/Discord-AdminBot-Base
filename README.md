@@ -1,6 +1,8 @@
-# Discord.NET Bot Template
+# General Purpose Discord Admin Bot Base
 
-This repository contains a complete Discord Bot written in C# using the Discord.NET framework. Feel free to clone it or create your own repository from the template. Expand it as much as you want. The project uses dependency injection and comes ready with ping and help commands. Enjoy!
+This repository contains a base admin bot with extra features, it is based from [Discord.NET Bot Template](https://github.com/HRKings/DiscordNetBotTemplate) and will be updated with the latest features from the repo.
+
+The bot feature basic admin tools, and is meant to be expanded and customized.
 
 ## Running with Docker
 
